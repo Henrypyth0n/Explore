@@ -1,0 +1,1 @@
+The repository contains audio files that can be found in pixabay a copy free platform for sound effects I stored the raw bytes for use in other projects. i also have uploaded a file containg all my python projects up to this point in my python journey the one I'm focusing on now is my accounting project GUI version.
